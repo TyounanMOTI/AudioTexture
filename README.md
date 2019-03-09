@@ -5,6 +5,9 @@
 ## AudioTexture/Examples/VolumeVisualizer.unity
 テクスチャ化した音声データの振幅値で箱のスケールを変化させています。
 
+## AudioTexture/Examples/RMSVisualizer.unity
+Root Mean Square (RMS) 値をシェーダーで算出し、箱のスケールを変化させています。
+
 # 使い方
 1. AudioTexture.unitypackageをUnityで開く
 2. UnityメインメニューのAudioTexture/Generateを選択
