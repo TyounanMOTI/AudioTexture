@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: RMSVisualizer
-  m_Shader: {fileID: 4800000, guid: 20753a619ac6b8c4ea1f1bff9de7ef51, type: 3}
+  m_Shader: {fileID: 4800000, guid: b65c07548153e104a8f206433e1ed950, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -66,11 +66,13 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
+    - _SamplingFrequency: 44100
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _UVSec: 0
+    - _Window: 0.05
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 0.78676474, g: 0.78676474, b: 0.78676474, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
