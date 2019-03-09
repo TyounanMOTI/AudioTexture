@@ -1,4 +1,4 @@
-﻿Shader "Unlit/VolumeVisualizer"
+﻿Shader "AudioTexture/VolumeVisualizer"
 {
 	Properties
 	{
